@@ -1,0 +1,14 @@
+LISTA DE COMANDOS BASICOS PARA GIT:
+* git init 
+Inicializa un repositorio Git en un directorio nuevo o existente.
+*  git add .
+Los archivos que Git va a controlar
+* git commit -m "  "
+Escribe un comentario en el repositorio
+* git branch -M main
+Es el comando para trabajar con ramas en Git.
+* git remote add origin https://github.com/LeonardoArevalo01/aplicacionesmoviles.git
+Se utiliza para agregar un repositorio remoto a tu repositorio Git local.
+* git push -u origin main
+se utiliza para enviar tus commits locales a la rama principal ("main") del repositorio remoto ("origin") 
+y establecer un seguimiento entre tu rama local y la rama remota.
